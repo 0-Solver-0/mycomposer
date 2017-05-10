@@ -8,6 +8,8 @@ body {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+	width: 600px;
+	height: 600px;
 }
 .group {
     background-color: rgb(255, 255, 255);

@@ -16,7 +16,7 @@
     {
       "key": "showImage",
       "type": "checkbox",
-      "defaultValue": false,
+      "defaultValue": true,
       "templateOptions": {
         "label": "Show Event Image",
         "required": false
@@ -32,7 +32,7 @@
   },  
   "credits": [
       {
-          "text": "",
+          "text": "TODO",
           "url": ""
       }
   ]
